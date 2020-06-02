@@ -172,11 +172,11 @@ hr
     height: auto;
 }
 
-.contact-me {
+.contact-me 
+{
   padding-top: 80px;
   padding-bottom: 80px;
   margin: auto;
-  width: 40%;
 }
 
 .contact-message
